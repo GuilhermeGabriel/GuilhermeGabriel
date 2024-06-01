@@ -12,7 +12,7 @@ Software Engineer with a strong interest in algorithms, data structures, coding 
 - [**Algorithms and Data Structures**](https://github.com/GuilhermeGabriel/competitive-programming "Algorithms and Data Structures") - A collection of algorithms and data structures problems implemented in C/C++.
 
 - [**AjudaAqui**](https://ajudaaqui.net/) - An startup that I start building that connects people who need help with your home exercises with professionals that can help them. (The repository is private because it is a company project).
-- [**Whatsapp Clone**](https://github.com/GuilhermeGabriel/whats-web-gui) - A clone of the WhatsApp Web interface using ReactJS and Firebase.
+- [**Whatsapp Clone**](https://whatsguii.web.app/) - A clone of the WhatsApp Web using ReactJS and Firebase. [code](https://github.com/GuilhermeGabriel/whats-web-gui)
 
 - ... this resume is still under construction.
 
