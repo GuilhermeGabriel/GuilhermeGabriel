@@ -7,7 +7,9 @@ Software Engineer with a strong interest in algorithms, data structures, coding 
 
 ## Some Projects
 
-- [**GuruIA**](https://play.google.com/store/apps/details?id=com.guruia) - A mobile app used by over 50k students to study for exams. It is available on the [Apple Store](https://apps.apple.com/br/app/guru-ia/id6469240984) and [Google Play](https://play.google.com/store/apps/details?id=com.guruia). The app uses AI to generate answers based on students' questions from text, audio, or images. (The repository is private because it is a company project).
+- [**GuruIA**](https://play.google.com/store/apps/details?id=com.guruia) - A mobile app used by over 50k students to study for exams. It is available on the [Apple Store](https://apps.apple.com/br/app/guru-ia/id6469240984) and [Google Play](https://play.google.com/store/apps/details?id=com.guruia). The app uses AI to generate answers based on students' 
+questions from text, audio, or images. (The repository is private because it is a company project).
+- [**LoveTag**](https://lovetag.me/) LoveTag is a platform where users can create personalized QR codes to share with their loved ones. The QR code links to a photo and a tracker showing how long they've been together.
 - [**AjudaAqui**](https://ajudaaqui.net/) - An startup that I start building that connects people who need help with your home exercises with professionals that can help them. (The repository is private because it is a company project).
 - [**Algorithms and Data Structures**](https://github.com/GuilhermeGabriel/competitive-programming "Algorithms and Data Structures") - A collection of algorithms and data structures problems implemented in C/C++.
 - [**Whatsapp Clone**](https://whatsguii.web.app/) - A clone of the WhatsApp Web using ReactJS and Firebase. [code](https://github.com/GuilhermeGabriel/whats-web-gui)
