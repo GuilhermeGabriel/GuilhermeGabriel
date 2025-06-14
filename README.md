@@ -6,7 +6,7 @@
 Software Engineer with a strong interest in algorithms, data structures, coding competitions, backend, web, mobile, cloud computing, and all aspects of software. I enjoy pushing myself outside of my comfort zone, seeking challenging experiences, and using my skills to solve problems.
 
 ## Some Projects
-
+- (Most of the projects I work on are private, as they are part of my professional work and generate income.)
 - [**GuruIA**](https://play.google.com/store/apps/details?id=com.guruia) - A mobile app used by over 50k students to study for exams. It is available on the [Apple Store](https://apps.apple.com/br/app/guru-ia/id6469240984) and [Google Play](https://play.google.com/store/apps/details?id=com.guruia). The app uses AI to generate answers based on students' 
 questions from text, audio, or images. (The repository is private because it is a company project).
 - [**LoveTag**](https://lovetag.me/) LoveTag is a platform where users can create personalized QR codes to share with their loved ones. The QR code links to a photo and a tracker showing how long they've been together.
